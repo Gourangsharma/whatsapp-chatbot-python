@@ -57,7 +57,7 @@ whatsapp-chatbot-python/
 ---
 
 ##  Notes
-- .env is excluded from GitHub using .gitignore — it contains your private API key.
+- .env is excluded from GitHub using .gitignore — it contains private API key.
 - pyautogui coordinates are hardcoded and may need adjustment for your screen.
 - Keep WhatsApp Web open and visible while the script is running.
 - This bot is intended strictly for educational and personal learning use.

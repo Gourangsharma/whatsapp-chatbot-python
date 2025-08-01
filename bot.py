@@ -10,7 +10,6 @@ import os
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
 
-#API_KEY = "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"
 MODEL = "deepseek/deepseek-chat-v3-0324:free"
 
     

@@ -64,7 +64,7 @@ whatsapp-chatbot-python/
 
 ---
 
-## Contact
+## Author
 Created by Gourang Sharma
 Feel free to connect for collaboration, ideas, or questions.
 
